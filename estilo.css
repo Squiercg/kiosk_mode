@@ -4,8 +4,6 @@ body {
     
 }
 
-
-
 div.info_status{
     background-color: blue;
         border-style: double;
@@ -59,4 +57,29 @@ div.nota {
     box-shadow:0 4px 6px rgba(0,0,0,0.1);
     transition:box-shadow 0.5s ease;
     font-smoothing:subpixel-antialiased;    
-} 
+}
+
+
+div.info_torrent{
+        font:12px 'Gloria Hallelujah', cursive;
+}
+
+
+
+/*Formas para usar em div*/
+
+#circuloverde {
+    margin: auto;
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    background: green;
+}
+
+#circulovermelho {
+    margin: auto;
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    background: red;
+}

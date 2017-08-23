@@ -23,9 +23,17 @@
 	<p>Iniciando!!!</p>    
       </div>
     </div>
-    
+
+
+      
+      
     <div id="nota_lateral" class="nota">
-      <!-- <?php require("todo.php") ?> -->
+      <h3>Torrents</h3>
+      <div id="info_torrent" class="info_torrent">
+	  <p>Iniciando!!!</p>    
+      </div>
+
+      
     </div>
 
     

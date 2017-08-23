@@ -1,0 +1,1 @@
+Arquivo Original em https://github.com/brycied00d/PHP-Transmission-Class
