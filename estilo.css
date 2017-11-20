@@ -6,16 +6,31 @@ body {
 
 div.info_status{
     background-color: blue;
-        border-style: double;
+    border-style: double;
     float:left;
-    width:560px;
+    width:1200px;
     height:350px;
+
+    positon: relative;
 }
 
 
+div.plot_pihole{
+    float: left;
+    margin: 10px;
+
+    
+    width:580px;
+    height:90%;
+
+}
+
 div.levins_info_padrao{
+    float: left;
+    margin: 10px;
+    
     background-color: Tomato;
-    float:left;
+
     border-style: double;
     border-color: black;
     width:250px;
@@ -28,8 +43,10 @@ div.levins_info_padrao{
 
 
 div.hanski_info_padrao{
+    float: left;
+    margin: 10px;
+   
     background-color: YellowGreen;
-    float:right;
     border-style: double;
     border-color: black;
     width:250px;

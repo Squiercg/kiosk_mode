@@ -14,7 +14,7 @@
     ?> graus celsius.
 </p>
 
-<p><b>CPU:</b><br>
+<p><b>CPU:</b>
     <?php
     $uso_cpu = sys_getloadavg();
     echo number_format($uso_cpu[0],2);
